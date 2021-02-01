@@ -1,0 +1,1 @@
+pdftk *zu_verbindende_Dateien* cat output *name_der_Zieldatei*
